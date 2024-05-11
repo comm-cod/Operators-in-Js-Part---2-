@@ -1,0 +1,4 @@
+The ternary operator is a conditional operator which evaluates either of two expressions – a true expression and a false expression – based on a conditional expression that you provide.
+
+Syntax :-
+    condition ? trueExpression : falseExpression
